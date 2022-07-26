@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkRoseUI"]=self["webpackChunkRoseUI"]||[]).push([[6723],{6723:function(e,n,r){r.r(n),r.d(n,{default:function(){return a}});var t=r(6252);function u(e,n,r,u,s,c){const o=(0,t.up)("rs-layout");return(0,t.wg)(),(0,t.j4)(o)}var s={name:"ecommerce-wishlist",setup(){return{}}},c=r(3744);const o=(0,c.Z)(s,[["render",u]]);var a=o}}]);
+//# sourceMappingURL=6723.97b19559.js.map
