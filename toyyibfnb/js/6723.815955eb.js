@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkMalayaGrill"]=self["webpackChunkMalayaGrill"]||[]).push([[6723],{6723:function(r,e,n){n.r(e),n.d(e,{default:function(){return c}});var a=n(6252);function t(r,e,n,t,u,l){const s=(0,a.up)("rs-layout");return(0,a.wg)(),(0,a.j4)(s)}var u={name:"ecommerce-wishlist",setup(){return{}}},l=n(3744);const s=(0,l.Z)(u,[["render",t]]);var c=s}}]);
+//# sourceMappingURL=6723.815955eb.js.map
